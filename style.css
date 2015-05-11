@@ -235,7 +235,7 @@ img{
 }
 
 #traveler{
-	background: url(images/fond1.png) 50% no-repeat fixed;
+	background: url(images/fond1.jpg) 50% no-repeat fixed;
 	background-color:#000000;
 	background-size:1071px;
 	color: white;
@@ -258,7 +258,7 @@ img{
 
 
 #third{
-	background: url(images/fond2.png) 50% 0 no-repeat fixed;
+	background: url(images/fond2.jpg) 50% 0 no-repeat fixed;
 	background-color:#000000;
 	background-size:1071px;
 	color: white;
@@ -276,7 +276,7 @@ img{
 }
 
 #hipster{
-	background: url(images/fond3.png) 50% 0 no-repeat fixed;
+	background: url(images/fond3.jpg) 50% 0 no-repeat fixed;
 	background-color:#000000;
 	background-size:1071px;
 	color: white;
@@ -294,7 +294,7 @@ img{
 }
 
 #fond4{
-	background: url(images/fond4.png) 50% 0 no-repeat fixed;
+	background: url(images/fond4.jpg) 50% 0 no-repeat fixed;
 	background-color:#000000;
 	background-size:1071px;
 	color: white;
@@ -312,7 +312,7 @@ img{
 }
 
 #fond5{
-	background: url(images/fond5.png) 50% 0 no-repeat fixed;
+	background: url(images/fond5.jpg) 50% 0 no-repeat fixed;
 	background-color:#000000;
 	background-size:1071px;
 	color: white;
@@ -329,7 +329,7 @@ img{
 	z-index: 10;
 }
 #fond6{
-	background: url(images/fond6.png) 50% 0 no-repeat fixed;
+	background: url(images/fond6.jpg) 50% 0 no-repeat fixed;
 	background-color:#000000;
 	background-size:1071px;
 	color: white;
@@ -346,7 +346,7 @@ img{
 	z-index: 10;
 }
 #fond7{
-	background: url(images/fond7.png) 50% 0 no-repeat fixed;
+	background: url(images/fond7.jpg) 50% 0 no-repeat fixed;
 	background-color:#000000;
 	background-size:1071px;
 	color: white;
