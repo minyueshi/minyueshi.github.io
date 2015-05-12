@@ -187,7 +187,7 @@ img{
 
 
 #intro{
-	background:url(designer/images/intro.png) 0 no-repeat;
+	background:url(images/intro.png) 0 no-repeat;
 	background-color:#000000;
 	background-position:center;
 	background-size:auto;
@@ -235,7 +235,7 @@ img{
 }
 
 #traveler{
-	background: url(deisnger/images/map.png) 50% no-repeat fixed;
+	background: url(images/map.png) 50% no-repeat fixed;
 	background-color:#000000;
 	background-size:1071px;
 	color: white;
@@ -251,7 +251,7 @@ img{
 
 
 #third{
-	background: url(designer/images/blog.jpg) 50% 0 no-repeat fixed;
+	background: url(images/blog.jpg) 50% 0 no-repeat fixed;
 	background-color:#000000;
 	background-size:1071px;
 	color: white;
@@ -262,7 +262,7 @@ img{
 
 
 #hipster{
-	background: url(designer/images/logo.jpg) 50% 0 no-repeat fixed;
+	background: url(images/logo.jpg) 50% 0 no-repeat fixed;
 	background-color:#000000;
 	background-size:1071px;
 	color: white;
