@@ -95,13 +95,13 @@
 		$("#n9").css({opacity:'0.4'},1);}	
 		});
 		
-		$("#n9").append(function() {
+		// $("#n9").append(function() {
             
-			if (divIndex >= 10.59 && divIndex < 11.79) {
-		$("#n9").css({opacity:'1'},1);}
-			else {				
-		$("#n9").css({opacity:'0.4'},1);}	
-		});
+		// 	if (divIndex >= 10.59 && divIndex < 11.79) {
+		// $("#n9").css({opacity:'1'},1);}
+		// 	else {				
+		// $("#n9").css({opacity:'0.4'},1);}	
+		// });
 		
 		$("#n10").append(function() {
             
