@@ -32,10 +32,19 @@
 		
 		$("#n2").append(function() {
             
-			if (divIndex >= 2.19 && divIndex < 3.39) {
+			if (divIndex >= 1 && divIndex < 2.19) {
 				$("#n2").css({opacity:'1'},1);}
 			else {				
-			$("#n2").css({opacity:'0.4'},1);}	
+			$("#n2").css({opacity:'0.4'},1);}			
+			
+		});
+		
+		$("#n3").append(function() {
+            
+			if (divIndex >= 2.19 && divIndex < 3.39) {
+				$("#n3").css({opacity:'1'},1);}
+			else {				
+			$("#n3").css({opacity:'0.4'},1);}	
 		});
 		
 		$("#n3").append(function() {
