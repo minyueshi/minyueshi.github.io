@@ -9,14 +9,14 @@
 				console.log(divHeight);
 
 		
-	$(function () {
-   function runIt() {
-      $('#n19 img').animate({"opacity":"0.4"},500)
-               .animate({"opacity":"1"},500, runIt);
-   }
+// 	$(function () {
+//    function runIt() {
+//       $('#n19 img').animate({"opacity":"0.4"},500)
+//                .animate({"opacity":"1"},500, runIt);
+//    }
 
-   runIt();
-});
+//    runIt();
+// });
 
 
 		
