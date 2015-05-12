@@ -178,7 +178,7 @@ img{
 
 
 #intro{
-	background:url(images/intro.png) 0 no-repeat;
+	background:url(images/intro.jpg) 0 no-repeat;
 	background-color:#000000;
 	background-position:center;
 	background-size:auto;
@@ -259,78 +259,6 @@ img{
 	color: white;
 	height: 120%;
 	padding:0;	
-}
-
-
-
-#fond4{
-	background: url(images/fond4.jpg) 50% 0 no-repeat fixed;
-	background-color:#000000;
-	background-size:1071px;
-	color: white;
-	height: 120%;
-	padding:0;	
-}
-
-#fond4 .bg{
-	background: url(images/bg4.png) 50% 85% no-repeat fixed;
-	height: 120%;
-	padding: 0;
-	position: absolute;
-	width:inherit;
-	z-index: 10;
-}
-
-#fond5{
-	background: url(images/fond5.jpg) 50% 0 no-repeat fixed;
-	background-color:#000000;
-	background-size:1071px;
-	color: white;
-	height: 120%;
-	padding:0;	
-}
-
-#fond5 .bg{
-	background: url(images/bg5.png) 50% 85% no-repeat fixed;
-	height: 120%;
-	padding: 0;
-	position: absolute;
-	width:inherit;
-	z-index: 10;
-}
-#fond6{
-	background: url(images/fond6.jpg) 50% 0 no-repeat fixed;
-	background-color:#000000;
-	background-size:1071px;
-	color: white;
-	height: 120%;
-	padding:0;	
-}
-
-#fond6 .bg{
-	background: url(images/bg6.png) 50% 82% no-repeat fixed;
-	height: 120%;
-	padding: 0;
-	position: absolute;
-	width:inherit;
-	z-index: 10;
-}
-#fond7{
-	background: url(images/fond7.jpg) 50% 0 no-repeat fixed;
-	background-color:#000000;
-	background-size:1071px;
-	color: white;
-	height: 120%;
-	padding:0;	
-}
-
-#fond7 .bg{
-	background: url(images/bg7.png) 50% 84% no-repeat fixed;
-	height: 120%;
-	padding: 0;
-	position: absolute;
-	width:inherit;
-	z-index: 10;
 }
 
 
