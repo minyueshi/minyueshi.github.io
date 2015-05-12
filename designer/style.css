@@ -134,14 +134,14 @@ img{
 	z-index:50;
 	
 }
-#exp{
+#know{
 	opacity:0.5;
 	-moz-transition: all 0.2s ease-in-out;
 	-webkit-transition: all 0.2s ease-in-out;
 	-o-transition:all 0.2s ease-in-out;
 }
 
-#exp:hover {
+#know:hover {
 	opacity:1;
 }
 
