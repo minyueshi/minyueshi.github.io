@@ -47,28 +47,28 @@
 			$("#n3").css({opacity:'0.4'},1);}	
 		});
 		
-		// $("#n3").append(function() {
+		 $("#n4").append(function() {
            
-		// 	if (divIndex >= 3.39 && divIndex < 4.59) {
-		// 		$("#n3").css({opacity:'1'},1);}
-		// 	else {				
-		// 	$("#n3").css({opacity:'0.4'},1);}	
-		// });
+			if (divIndex >= 3.39 && divIndex < 4.59) {
+				$("#n4").css({opacity:'1'},1);}
+			else {				
+			$("#n4").css({opacity:'0.4'},1);}	
+		});
 		
-		$("#n4").append(function() {
+		$("#n5").append(function() {
             
 		if (divIndex >= 4.59 && divIndex < 5.79) {
 		$("#n4").css({opacity:'1'},1);}
 			else {				
-		$("#n4").css({opacity:'0.4'},1);}	
+		$("#n5").css({opacity:'0.4'},1);}	
 		});
 		
 		$("#n5").append(function() {
             
 			if (divIndex >= 5.79 && divIndex < 6.99) {
-		$("#n5").css({opacity:'1'},1);}
+		$("#n6").css({opacity:'1'},1);}
 			else {				
-		$("#n5").css({opacity:'0.4'},1);}	
+		$("#n6").css({opacity:'0.4'},1);}	
 		});
 		
 		$("#n6").append(function() {
@@ -76,23 +76,23 @@
 			if (divIndex >= 6.99 && divIndex < 8.19) {
 		$("#n6").css({opacity:'1'},1);}
 			else {				
-		$("#n6").css({opacity:'0.4'},1);}	
+		$("#n7").css({opacity:'0.4'},1);}	
 		});
 		
 		$("#n7").append(function() {
            
 		if (divIndex >= 8.19 && divIndex < 9.39) {
-		$("#n7").css({opacity:'1'},1);}
-			else {				
-		$("#n7").css({opacity:'0.4'},1);}	
-		});
-		
-		$("#n8").append(function() {
-            
-			if (divIndex >= 9.39 && divIndex < 10.59) {
 		$("#n8").css({opacity:'1'},1);}
 			else {				
 		$("#n8").css({opacity:'0.4'},1);}	
+		});
+		
+		$("#n9").append(function() {
+            
+			if (divIndex >= 9.39 && divIndex < 10.59) {
+		$("#n9").css({opacity:'1'},1);}
+			else {				
+		$("#n9").css({opacity:'0.4'},1);}	
 		});
 		
 		$("#n9").append(function() {
