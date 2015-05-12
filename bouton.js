@@ -233,13 +233,13 @@
 			
 		});
 		
-		$("#n2 img,#n2 p,#n2 hr").append(function() {
+		$("#fond19 img,#fond19 p,#fond19 hr").append(function() {
 			if (divIndex >= 0.19 && divIndex <= 1.36) {
-		$("#n2 img").css({display:'block'},1);
-		$("#n2 p,#n2 hr").fadeIn('fast');}
+		$("#fond19 img").css({display:'block'},1);
+		$("#fond19 p,#fond19 hr").fadeIn('fast');}
 			else {			
-		$("#n2 img").css({display:'none'},1);			
-		$("#n2 p,#n2 hr").fadeOut('fast');}				
+		$("#fond19 img").css({display:'none'},1);			
+		$("#fond19 p,#fond19 hr").fadeOut('fast');}				
 		});
 		
 		
