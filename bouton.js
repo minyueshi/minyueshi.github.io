@@ -11,7 +11,7 @@
 		
 	$(function () {
    function runIt() {
-      $('#n2 img').animate({"opacity":"0.4"},500)
+      $('#n19 img').animate({"opacity":"0.4"},500)
                .animate({"opacity":"1"},500, runIt);
    }
 
