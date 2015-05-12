@@ -433,13 +433,17 @@ img{
 }
 
 footer {
+	background: url(images/fond1.jpg) 50% no-repeat fixed;
+	background-color:#000;
+	background-size:1071px;
+	color: white;
+	height: 120%;
+	width:100%;
+	margin: 0 auto;
+	padding-top:0;
+	overflow: hidden;
 	position:relative;
-	z-index:-10;
-	margin:0;
-	padding:0;
-	height:100%;
-	background-color:#f68076;	
-	text-align:center;
+	z-index:2;
 }
 
 

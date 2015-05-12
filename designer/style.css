@@ -408,7 +408,7 @@ footer {
 	margin:0;
 	padding:0;
 	height:100%;
-	background-color:#f68076;	
+	background-color:#000000;	
 	text-align:center;
 }
 
@@ -422,6 +422,6 @@ footer p {
 	bottom:6px;
 	font-family:"Lucida Grande", sans-serif;
 	font-size:9.5px;
-	color:#ffffff;
+	color:#000000;
 	font-weight:100;
 }
