@@ -134,27 +134,18 @@ img{
 	z-index:50;
 	
 }
-#know {
+#exp{
 	opacity:0.5;
 	-moz-transition: all 0.2s ease-in-out;
 	-webkit-transition: all 0.2s ease-in-out;
 	-o-transition:all 0.2s ease-in-out;
 }
 
-#know:hover {
+#exp:hover {
 	opacity:1;
 }
 
-#shop {
-	opacity:0.5;
-	-moz-transition: all 0.2s ease-in-out;
-	-webkit-transition: all 0.2s ease-in-out;
-	-o-transition:all 0.2s ease-in-out;
-}
 
-#shop:hover {
-	opacity:1;
-}
 
 #menu img {
 	margin-right:30px;
