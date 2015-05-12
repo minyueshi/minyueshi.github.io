@@ -30,15 +30,6 @@
 		});
 		
 		
-		$("#n19").append(function() {
-            
-			if (divIndex >= 1 && divIndex < 2.19) {
-				$("#n19").css({opacity:'1'},1);}
-			else {				
-			$("#n19").css({opacity:'0.4'},1);}			
-			
-		});
-		
 		$("#n2").append(function() {
             
 			if (divIndex >= 2.19 && divIndex < 3.39) {
