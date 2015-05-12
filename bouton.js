@@ -58,7 +58,7 @@
 		$("#n5").append(function() {
             
 		if (divIndex >= 4.59 && divIndex < 5.79) {
-		$("#n4").css({opacity:'1'},1);}
+		$("#n5").css({opacity:'1'},1);}
 			else {				
 		$("#n5").css({opacity:'0.4'},1);}	
 		});
